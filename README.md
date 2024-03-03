@@ -6,14 +6,13 @@
 <ul>
   <li>Create study rooms based on specific topics.</li>
   <li>Connect with like-minded individuals who share your interests.</li>
-  <li>Discover existing rooms using a comprehensive search bar or topic-based filtering on the main page.</li>
+  <li>Discover existing rooms using a  search bar or topic-based filtering on the main page.</li>
 </ul>
 
 <h2>Engaging Communication:</h2>
 <ul>
-  <li>Each room features a real-time chat interface, similar to Discord servers.</li>
-  <li>Seamless communication and knowledge exchange are facilitated.</li>
-  <li>Participants can actively engage in discussions, ask questions, and share resources within the room.</li>
+  <li>Each room features a real-time chat interface,enabling seamless communication and knowledge exchange are facilitated.</li>
+  <li>Participants can actively engage in discussions and ask questions within the room.</li>
 </ul>
 
 <h2>Transparent Information:</h2>
